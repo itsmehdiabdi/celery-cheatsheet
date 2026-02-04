@@ -1,4 +1,4 @@
-# Celery: Zero to Hero
+# Celery cheat sheet
 
 A minimal, step-by-step learning repo for [Celery](https://docs.celeryq.dev/en/stable/) (distributed task queue).
 
